@@ -1,0 +1,65 @@
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  /* background-color: blue; */
+}
+
+
+.container
+{
+    
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+.container1
+{
+    
+    padding: 20px;
+    align-self: center;
+}
+#box {
+    border-radius: 25px;
+    border-color: dimgray;
+    background-position: left top;
+    background-repeat: repeat;
+    background-color: gainsboro;
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+    align-self: center;
+    margin:10px;
+    border: 3px solid #f1f1f1;
+    top: 300px;
+    left:500px;
+  }
+  
+
+.btn-grad {
+  background-color: white;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.btn-grad {
+   
+   padding: 5px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   border-radius: 10px;
+   width: 200px;
+   height: 100px;
+   
+}
+.btn-grad:hover{
+  transform: scale(1.1);
+  background-color: rgb(191, 139, 250);
+  border: 2px solid black;
+  transition: ease-out;
+  transition: ease-in;
+}
+  

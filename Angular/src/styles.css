@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+/*body{
+    background: linear-gradient(45deg,rgb(243, 122, 122) 25%,rgb(3, 73, 64) 25% 50%,rgb(128, 128, 13) 50% 75%, rgb(11, 179, 100) 75% 100%);
+}*/
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-image: url("https://bsmedia.business-standard.com/_media/bs/img/article/2020-02/29/full/1582921535-0477.jpg");
+    background-color: #362b2b;
+    height: 100%;
+    width: 100%;
+    
+   }
+
