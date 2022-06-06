@@ -272,3 +272,4 @@ reliable and scalable way to run containerized applications.
 
 4.pms-XXXX-penstion-pro-rep-service
 
+Deployment AWS+DevOps `https://docs.google.com/document/d/1CeuZeekid5w8l9cuR4BxZZttabSmTSBF/edit?usp=drivesdk&ouid=106580703410573333637&rtpof=true&sd=true`
